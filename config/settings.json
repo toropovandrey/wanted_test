@@ -1,0 +1,5 @@
+{
+  "settings": {
+    "get_secret_key_place":"file"
+  }
+}
